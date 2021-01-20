@@ -1,4 +1,5 @@
 #Item-operations
+>node_modules should be installed for this project
 
 > A Vue.js project
 
